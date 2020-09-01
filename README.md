@@ -1,4 +1,4 @@
-# Please NPM Install from bar-graph-openfda folder
+## Unpack Archive.zip and NPM I
 
 ## Screenshot Sample
 
